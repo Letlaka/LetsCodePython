@@ -1,0 +1,11 @@
+Part 2: Variables and Data Types
+Objective: Understand variables, data types, and basic input/output.
+
+1. Variables and Data Types:
+    - variables, strings, integers, floats, and booleans.
+
+2. Basic Input/Output:
+    - Use of input() to take user input and print() to display output.
+
+Exercise:
+Write a script that asks the user for their name, age, and favorite color, then prints a summary.

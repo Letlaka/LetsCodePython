@@ -1,0 +1,14 @@
+Part 1: Introduction to Python and Setting Up
+Objective: Install Python, set up the development environment, and write the first Python script.
+
+1. Install Python:
+    - Download and install Python from python.org.
+
+2. Set Up a Development Environment:
+    - Install an Integrated Development Environment (IDE) like VSCode, PyCharm, or use an online editor like Replit.
+
+First Python Script:
+Write a simple script that prints "Hello, World!".
+
+Exercise:
+Modify the script to print your name and your favorite hobby.
